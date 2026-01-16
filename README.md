@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Tobechi!
-#A computer science student at Montclair State University
+## A computer science student at Montclair State University
 
 <!--
 **Tobechi00/Tobechi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
