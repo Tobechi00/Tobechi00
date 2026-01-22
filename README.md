@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Tobechi!
 ### A computer science student at Montclair State University!
-### Feel free to take a look at all my projects, I worked very hard on all of them!
 
 ## Languages / Tools I Use:
-- C++, Java, Javascript, Dart, HTML/CSS, Springboot, Vaadin.
+- C++, Cmake, Java, Vaadin, SpringBoot, Hibernate, JPA, SQL, JavaScript, TypeScript, HTML, CSS, XML.
 
 <!--
 **Tobechi00/Tobechi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
